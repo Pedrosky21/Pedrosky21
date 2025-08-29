@@ -12,30 +12,23 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-- 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Tecnológica Nacional (UTN), actualmente cursando cuarto año.  
-- 📚 Ayudante de cátedra en **Algoritmos y Estructuras de Datos (2024)**.  
 - 🚀 Proactivo, adaptable y con fuerte interés en el aprendizaje continuo.  
 - 🌍 Nivel de inglés **avanzado**.  
-- 🤝 Disfruto trabajar en equipo con metodologías ágiles como **SCRUM** y aplicar patrones de diseño.  
+- 🤝 Acostumbrado a trabajar en equipo con metodologías ágiles como **SCRUM**.
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:**  
-Python | JavaScript | C# | Lua  
+**Lenguajes:** Python | JavaScript | C# | Lua  
 
-**Front-end:**  
-HTML | CSS | React | Angular | Bootstrap | Tailwind  
+**Front-end:** HTML | CSS | React | Angular | Bootstrap | Tailwind  
 
-**Back-end:**  
-Node.js | Express | MySQL | SQLite | MongoDB  
+**Back-end:** Node.js | Express | MySQL | SQLite | MongoDB  
 
-**Data Analysis:**  
-NumPy | Pandas | Excel  
+**Data Analysis:** NumPy | Pandas | Excel  
 
-**Otras herramientas:**  
-Git | Copilot  
+**Otras herramientas:** Git | Copilot  
 
 ---
 
@@ -49,22 +42,4 @@ Git | Copilot
 
 ---
 
-## 🎓 Educación
-- **Ingeniería en Sistemas** - Universidad Tecnológica Nacional (UTN)  
-  - Materias aprobadas directamente: Algoritmos y Estructuras de Datos, Paradigmas de Programación, Desarrollo de Software y Base de Datos.  
-
----
-
-## 📘 Cursos y Bootcamps
-- Full Stack Developer - **XAcademy**  
-- Full Stack Developer Intermedio - **UTN**  
-- Introducción al Análisis de Datos - **Alkemy**  
-
----
-
-## 📫 Conecta conmigo
-- GitHub: [Pedrosky21](https://github.com/Pedrosky21)  
-- Email: **pedroarreguez21@gmail.com**  
-
----
 ⭐️ ¡Siempre abierto a nuevos desafíos y oportunidades de colaboración!
