@@ -1,12 +1,12 @@
 # 👋 Hola, soy Pedro Arreguez  
 
-💻 **Desarrollador de Software** con sólidos conocimientos en **Python** y **JavaScript** (FullStack), enfocado en la escritura de código limpio, buenas prácticas y resolución eficiente de problemas.  
+💻 **Desarrollador de Software** con conocimientos en **Python** y **JavaScript** (FullStack), enfocado en la escritura de código limpio, buenas prácticas y resolución eficiente de problemas.  
 📍 Villa Allende, Córdoba - Argentina  
 📧 pedroarreguez21@gmail.com | 📱 3515183732  
 
 ---
 
-- **[Portafolio](https://pedrosky21.vercel.app/)** | *Next.js*  
+- **[Portafolio](https://portafolio-pedroar.vercel.app/)** | *Next.js*  
 
 ---
 
