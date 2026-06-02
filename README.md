@@ -6,7 +6,7 @@
 
 ---
 
-- **[Portafolio](https://portafolio-pedroar.vercel.app/)** | *Next.js*  
+- **[Portafolio](https://portafolio-pedroar.vercel.app/](https://portafolio-2026-pa.vercel.app/))** | *Next.js*  
 
 ---
 
