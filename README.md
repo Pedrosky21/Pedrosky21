@@ -19,13 +19,11 @@
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:** Python | JavaScript | C# | Lua  
+**Lenguajes:** TypeScript | Python | Java | JavaScript | C# | Lua  
 
-**Front-end:** HTML | CSS | React | Angular | Bootstrap | Tailwind  
+**Front-end:** Angular | Next.js | HTML | CSS | React | Bootstrap | Tailwind  
 
-**Back-end:** Node.js | Express | MySQL | SQLite | MongoDB  
-
-**Data Analysis:** PowerBy | PowerQuery | Pandas | Excel  
+**Back-end & BD:** Node.js | Spring Boot | Express | MySQL | SQLite | MongoDB  
 
 ---
 ⭐️ ¡Siempre abierto a nuevos desafíos y oportunidades de colaboración!
